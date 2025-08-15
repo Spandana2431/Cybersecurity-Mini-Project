@@ -1,2 +1,2 @@
-# Cybersecurity-Mini-Project
-Pentesting in ColdBox Mini Project
+# Cybersecurity Mini Project
+Pentesting in ColdBox Mini Project Report
